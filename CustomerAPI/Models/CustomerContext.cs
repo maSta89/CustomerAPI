@@ -12,5 +12,6 @@ namespace CustomerAPI.Models {
         }
 
         public DbSet<Customer> Customers { get; set; }
+
     }
 }
